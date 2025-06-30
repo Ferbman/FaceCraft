@@ -58,7 +58,12 @@ Kurulum Adımları
     Gerekli kütüphaneleri yükleyin:
     pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 (GPU için, CUDA sürümünüze göre ayarlayın)
     pip install pillow numpy flask
+
+    Model indirme linki https://drive.google.com/file/d/1A8A3RqPdZqmj0PApPI6iZPdEjdHP7AT3/view?usp=drive_link
+
+    Modeli indirin ve dosya dizinine taşıyın
    
+
 
 Kullanım
 
